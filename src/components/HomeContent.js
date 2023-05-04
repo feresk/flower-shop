@@ -39,7 +39,7 @@ export default function HomeContent() {
           <h1>
              ORDER ONLINE
           </h1>
-          <h2 className="icon-desc" >From the comfort of you home</h2>
+          <h2 className="icon-desc" >From the comfort of your home</h2>
         </div>
 
         <div className="icon-desc-wrapper">
