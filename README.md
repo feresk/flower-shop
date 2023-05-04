@@ -1,4 +1,4 @@
 # PetalParadise
 ### Flower shop front-end using React
 
-![Alt text](relative%20preview/petalparadise-0.png?raw=true "Title")
+![alt text](https://github.com/feresk/flower-shop/blob/main/petalparadise-0.png?raw=true)
