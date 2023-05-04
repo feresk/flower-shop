@@ -1,5 +1,5 @@
 # PetalParadise
-### Flower shop front-end using React
+## Flower shop front-end using React
 #### H O M E
 ![alt text](https://github.com/feresk/flower-shop/blob/main/preview/petalparadise-0.png?raw=true)
 ![alt text](https://github.com/feresk/flower-shop/blob/main/preview/petalparadise-1.png?raw=true)
