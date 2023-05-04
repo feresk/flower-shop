@@ -1,2 +1,2 @@
 # PetalParadise
-## Flower shop front-end using React
+### Flower shop front-end using React
